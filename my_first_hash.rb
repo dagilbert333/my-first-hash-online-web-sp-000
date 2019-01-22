@@ -1,5 +1,5 @@
 def my_hash
-  your_hash = {"currency" => "US Dollar", }
+  your_hash = {"currency" => "dollar", "nation" => "USA"}
 
   
 end
